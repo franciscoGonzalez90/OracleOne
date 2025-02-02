@@ -3,7 +3,7 @@
 
 ## ![Desafio](https://img.shields.io/badge/Desafio-Finalizado!-green?labelColor=grey&style=flat&logo=checkmarx)
 
-## Proyecto de desafio OracleOne del amigo secreto
+## Proyecto de desafio OracleOne y AluraLatam del amigo secreto
 ![Descripcion](https://img.shields.io/badge/Descripcion-grey?style=plastic&logo=checkmarx) 
 ### Crear una app que almacene los nombres de los jugadores y que al presionar el boton de jugar aparezca el nombre de uno de los jugadores que sera el amigo secreto que le tocara!
 
