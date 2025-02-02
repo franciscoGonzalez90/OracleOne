@@ -7,6 +7,14 @@
 ![Descripcion](https://img.shields.io/badge/Descripcion-grey?style=plastic&logo=checkmarx) 
 ### Crear una app que almacene los nombres de los jugadores y que al presionar el boton de jugar aparezca el nombre de uno de los jugadores que sera el amigo secreto que le tocara!
 
+# Visita el link para jugar con tus amigos!
+https://franciscogonzalez90.github.io/OracleOne/
+
+## Imagenes del proyecto funcionando en Githubpages
+![alt text](<assets/Captura de pantalla 2025-02-02 130710.png>)
+
+![alt text](<assets/Captura de pantalla 2025-02-02 130726.png>)
+
 ### Tecnologias utilizadas:
 * Git 
 * Javascript 
