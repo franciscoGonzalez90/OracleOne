@@ -21,10 +21,17 @@
 ![HTML](https://img.shields.io/badge/HTML-grey?style=plastic&logo=html5)
 ![TRELLO](https://img.shields.io/badge/TRELLO-grey?style=plastic&logo=trello)
 
-## Tareas a Realizar:
+## Tareas Realizadas:
 * Crear Repositorio Git
-* Descargar repositorio base
 * Crear en JS un arreglo para almacenar los nombres de los jugadores
 * Crear una función JS para crear amigos
 * Crear una funcion JS para actualizar el listado de amigos
 * Crear una funcion JS para sortear los nombres de los amigos
+
+## Instalación
+
+* Clonar el repositorio
+* Acceder a la carpeta de la descarga
+* abrir el archivo index.html con tu navegador de preferencia
+* Ingresar los nombres de los jugadores
+* presionar el boton "sortear amigos" e ir asignando el nombre a un jugador de la lista
