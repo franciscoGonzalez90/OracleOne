@@ -27,6 +27,7 @@ function agregarAmigo(){
         alert("Por favor, inserte un nombre.");
     }else{
         let validarInputAmigo = permitirSoloLetras(inputAmigos.value);
+        console.log(validarInputAmigo);
         if(validarInputAmigo){
             amigos.push(inputAmigos.value);
             recorrerArreglo();
@@ -83,7 +84,7 @@ function verificarArrayAmigos(){
 
 //funcion que permite verificar que el input que le entregemos solo contenga letras y numeros
 function permitirSoloLetras(input){
-    const regex = /^[a-zA-ZáéíóúÁÉÍÓÚñÑ]\d{3,15}$/;
+    const regex = /^[a-zA-ZáéíóúÁÉÍÓÚñÑ]{3,15}$/;
     return regex.test(input);
 }
 
