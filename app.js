@@ -27,7 +27,6 @@ function agregarAmigo(){
         alert("Por favor, inserte un nombre.");
     }else{
         let validarInputAmigo = permitirSoloLetras(inputAmigos.value);
-        alert(inputAmigos.value);
         if(validarInputAmigo){
             amigos.push(inputAmigos.value);
             recorrerArreglo();
